@@ -1,5 +1,5 @@
 ---
-title: CAS PROJECT
+title: "CAS PROJECT"
 date: 2018-12-10
 layout: splash
 permalink: /
