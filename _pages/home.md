@@ -2,7 +2,7 @@
 title: "CAS PROJECT"
 date: 2018-12-10
 layout: splash
-permalink: /about/
+permalink: /home/
 header:
   overlay_color: "#5e616c"
   actions:
