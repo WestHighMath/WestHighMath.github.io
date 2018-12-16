@@ -8,7 +8,7 @@ header:
     - label: "Lessons Page"
       url: "/docs/quick-start-guide/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
+  A website suited for your math needs. Easily understandable lessons. Courtesy of the West High IB program.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.14.1">Latest release v4.14.1</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
