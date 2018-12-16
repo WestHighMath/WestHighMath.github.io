@@ -1,6 +1,6 @@
 ---
 title: "About"
-permalink: /
+permalink: /about/
 ---
 
 This is for CAS
