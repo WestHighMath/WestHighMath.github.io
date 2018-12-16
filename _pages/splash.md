@@ -2,7 +2,7 @@
 layout: splash
 permalink: /
 header:
-  overlay_color: "#5e616c"
+  overlay_color: "#ffffff"
   overlay_image: /images/WestLogo.png
   actions:
     - label: "Lessons Page"
