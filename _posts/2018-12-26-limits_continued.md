@@ -47,7 +47,7 @@ If a limit is indeed simply a y-value, let's plug in $$x=1$$:
 
 $$
 \begin{align}
-\lim{x \to 1} \frac{x^3 - x^2}{x-1} &= \frac{1^3 - 1^2}{1-1}\\
+\lim_{x \to 1} \frac{x^3 - x^2}{x-1} &= \frac{1^3 - 1^2}{1-1}\\
 &= \frac{1 - 1}{1-1}\\ &= \frac{0}{0}
 \end{align}
 $$
@@ -66,5 +66,5 @@ Now, we can properly answer the example question:
 
 
 $$
-\lim{x \to 1} \frac{x^3 - x^2}{x-1} = 1
+\lim_{x \to 1} \frac{x^3 - x^2}{x-1} = 1
 $$
