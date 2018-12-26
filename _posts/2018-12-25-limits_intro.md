@@ -16,7 +16,7 @@ Suppose we have the function:
 
 $$ f(x) = x^2 $$
 
-We know that at $$x = 2$$, $$f(2) = 4$$ since $$2^2 = 4$. But what about the $$x$$ values near $$x = 2$$? Like $$x = 1.9$$
+We know that at $$x = 2$$, $$f(2) = 4$$ since $$2^2 = 4$$. But what about the $$x$$ values near $$x = 2$$? Like $$x = 1.9$$
 
 $$f(1.9) = 1.9^2 = 3.61$$
 
@@ -36,10 +36,14 @@ You get the idea; we're plugging in numbers getting closer and closer to $$2$$ f
 
 Now, let's look at a function table of these values (excuse my bad handwriting/drawing skills):
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/limits_motivation.png" alt="linearly separable data">
+<img src="{{ site.url }}{{ site.baseurl }}/images/limits_motivation.png" alt="motivation">
 
 From the table, you might able to see a pattern. What's happening to the value of the function as we make $$x$$ closer and closer to $$2$$? The function is getting closer and closer to $$4$$.
 
 If you're not convinced, plug in values close to 2, like $$1.999999$$ or $$2.000001$$. You'll see that $$f(x)$$ is some number extremely close to 4, but **not $$4$$ itself**.
 
 The value we get by asking ourselves, **what number is the function approaching as $$x$$ approaches some value?**, is what we call the **limit** of the function as we **approach some $$x$$ value**.
+
+Now, we are ready to delve more deeply into the concept of the limit.
+
+## Limits
