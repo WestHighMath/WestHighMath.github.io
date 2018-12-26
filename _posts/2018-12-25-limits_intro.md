@@ -11,6 +11,15 @@ Before we go in depth with formal definitions, we begin with some quick review a
 
 ## Review of functions
 
+```python
+  import numpy as np
+
+  def test_function(x, y)
+    z = np.sum(x,y)
+    return z
+```
+
+
 If you've taken any secondary math, you know that a function usually looks like this:
 
 $$y = f(x)$$.
