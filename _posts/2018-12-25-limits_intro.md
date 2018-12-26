@@ -64,4 +64,10 @@ $$
 
 where $$f(x) = x^2$$.
 
-"lim" stands for limit. $$x \to 2$$ means "as $$x$$ approaches 2". Then we put in our function. We can put it in directly like the first example. Or, we can simply put in $$f(x)$$ and define $$f(x)$$ afterwards like in the second example.
+"lim" stands for limit. $$x \to 2$$ means "as $$x$$ approaches 2". Then we put in our function. We can put it in directly like the first example. Or, we can simply put in $$f(x)$$ and define $$f(x)$$ afterwards like in the second example. Then, we write what the limit equals.
+
+To reinforce this idea of limits, let's look at this same example but graphically.
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/limit_graph_example.png" alt="motivation">
+
+We have a graph of $$f(x) = x^2$$. We can easily see that at $$x = 2$$, $$y = f(2) = 4$$. The two points on either side of $$x = 2$$ give $$y$$ points on the graph that are close to $$y = 4$$. You can imagine that as we push our $$x$$ points closer to 2, the $$y$$ points will get closer to 4. 
