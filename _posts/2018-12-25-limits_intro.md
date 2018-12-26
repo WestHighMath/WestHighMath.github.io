@@ -47,3 +47,11 @@ The value we get by asking ourselves, **what number is the function approaching 
 Now, we are ready to delve more deeply into the concept of the limit.
 
 ## Limits
+
+Using the example above, we can say with words that the **limit** of the function $$f(x) = x^2$$ as we approach $$x = 2$$ is equal to $$4$$.
+
+The formal mathematical notation for what we just said is
+
+$$
+\lim_{x \to 2} x^2 = 4
+$$
