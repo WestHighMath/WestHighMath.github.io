@@ -94,7 +94,7 @@ $$
 
 This rule makes sense if you look at the graph below.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/limit_constant_rule.png" alt="constant_rule">
+<img src="{{ site.url }}{{ site.baseurl }}/images/limit_constant_rule.png alt="constant_rule">
 
 $$y = c$$ is just a horizontal line, so no matter what $$x$$ you choose, $$y$$ always equals $$c$$
 
