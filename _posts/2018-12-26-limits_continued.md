@@ -74,7 +74,7 @@ I'll discuss some techniques to solving limits like the one above in the next le
 
 ## Rules for limits
 
-###Sum rule for limits
+### Sum rule for limits
 
 Given the limits of two different functions, f(x) and g(x), such that
 
