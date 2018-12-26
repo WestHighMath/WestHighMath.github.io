@@ -35,4 +35,18 @@ $$
 
 (note that $$f(1) = 6$$ and $$f(10) = 3021$$ as well).
 
-Now you might be convinced that limits are just y-values.
+Now you might be convinced that limits are just y-values. To some extent, you're right; a quick way of finding a limit is plugging in the x-value into the function to get the y-value.
+
+But take a look at this limit:
+
+$$
+\lim{x \to 1} \frac{x^3 - x^2}{x-1}
+$$
+
+If a limit is indeed simply a y-value, let's plug in $$x=1$$:
+$$
+\begin{align*}
+\lim{x \to 1} \frac{x^3 - x^2}{x-1} \= \frac{1^3 - 1^2}{1-1}
+\= \frac{1 - 1}{1-1} \= \frac{0}{0}
+\end{align*}
+$$
