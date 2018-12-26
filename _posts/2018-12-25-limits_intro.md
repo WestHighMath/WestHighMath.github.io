@@ -37,3 +37,7 @@ You get the idea; we're plugging in numbers getting closer and closer to $$2$$ f
 Now, let's look at a function table of these values (excuse my bad handwriting/drawing skills):
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/limits_motivation.png" alt="linearly separable data">
+
+From the table, you might able to see a pattern. What's happening to the value of the function as we make $$x$$ closer and closer to $$2$$? The function is getting closer and closer to $$4$$.
+
+If you're not convinced, plug in values close to 2, like $$1.999999$$ or $$2.000001$$. You'll see that $$f(x)$$ is some number extremely close to 4, but **not $$4$$ itself$.
