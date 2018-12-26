@@ -68,8 +68,8 @@ $$
 \lim_{x \to 1} \frac{x^3 - x^2}{x-1} = 1
 $$
 
-The purpose of this section is to get you understand that conceptually, limits are not y-values. Sure, in some cases, you can plug in the x-value to find the limit, but like the example above, you sometimes can't do that.
+The purpose of this section is to get you understand that conceptually, limits are not y-values. Sure, in some cases, you can plug in the x-value to find the limit, but like the example above, you sometimes can't do that. Limits describe the **behavior** of the function as it **approaches** an x-value.
 
 I'll discuss some techniques to solving limits like the one above in the next lesson. But first, let's look at some rules for limits.
 
-##
+## Rules for limits
