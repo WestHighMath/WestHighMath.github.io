@@ -76,18 +76,10 @@ I'll discuss some techniques to solving limits like the one above in the next le
 
 ### Sum rule for limits
 
-Given the limits of two different functions, f(x) and g(x), such that
+Given two different functions, f(x) and g(x), the limit of the sum of functions is the sum of their limits. So,
 
 $$
 \begin{align}
-\lim_{x \to a} f(x) &= L_1 \\ \lim_{x \to a} g(x) &= L_2
-\end{align}
-$$
-
-where $$a, \, L_1, \, L_2$$ are real numbers, the limit of the sum of functions is the sum of their limits. So,
-
-$$
-\begin{align}
-\lim_{x \to a} [f(x) + g(x)] &= \lim_{x \to a} f(x) + \lim_{x \to a} g(x)\\ &= L_1 + L_2
+\lim_{x \to a} [f(x) + g(x)] &= \lim_{x \to a} f(x) + \lim_{x \to a} g(x)
 \end{align}
 $$
