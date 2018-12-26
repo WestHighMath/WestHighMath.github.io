@@ -3,6 +3,7 @@ title: "Review of Functions"
 date: 2018-12-25
 tags: [limits]
 mathjax: "true"
+permalink: /function_review/
 ---
 
 ## Review of functions
