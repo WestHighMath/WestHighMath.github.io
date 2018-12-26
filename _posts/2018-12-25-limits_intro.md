@@ -61,6 +61,7 @@ or
 $$
 \lim_{x \to 2} f(x) = 4
 $$
+
 where $$f(x) = x^2$$.
 
 "lim" stands for limit. $$x \to 2$$ means "as $$x$$ approaches 2". Then we put in our function. We can put it in directly like the first example. Or, we can simply put in $$f(x)$$ and define $$f(x)$$ afterwards like in the second example.
