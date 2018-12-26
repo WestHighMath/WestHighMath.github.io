@@ -26,11 +26,11 @@ $$
 or even changing the function to something like $$f(x) = 3x^3 + 2x + 1$$
 
 $$
-\lim_{x \to 1} 3x^3 + 2x + 1 = 6
+\lim_{x \to 1} f(x) = 6
 $$
 
 $$
-\lim_{x \to 10} 3x^3 + 2x + 1 = 3021
+\lim_{x \to 10} f(x) = 3021
 $$
 
 (note that $$f(1) = 6$$ and $$f(10) = 3021$$ as well).
