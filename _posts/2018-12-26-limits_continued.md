@@ -55,3 +55,16 @@ $$
 Hopefully you recognize that $$\frac{0}{0}$$ is impossible. Now, you might be tempted to say that there is no limit, that the limit **does not exist**.
 
 Let's look at the graph of $$\frac{x^3 - x^2}{x-1}$$.
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/limit_hole_graph.png" alt="hole">
+
+Remember that we're trying to find the limit as $$x$$ approaches $$1$$. Notice we have a hole at $$x = 1$$. This means if we plug in $$x = 1$$, there is no y-value. We have now confirmed this algebraically and graphically.
+
+But a limit is asking what happens when you get **close** to a certain x-value, **not at the x-value itself**. So, looking at the points **near** $$x = 1$$, we can see that corresponding y-values are getting closer and closer to $$y = 1$$.
+
+Now, we can properly answer the example question:
+
+
+$$
+\lim{x \to 1} \frac{x^3 - x^2}{x-1} = 1
+$$
