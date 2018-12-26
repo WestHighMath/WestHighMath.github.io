@@ -83,4 +83,8 @@ $$
 \end{align}
 $$
 
-where &&a, \, L_1, \, L_2$$ are real numbers
+where &&a, \, L_1, \, L_2$$ are real numbers, the limit of the sum of functions is the sum of their limits. So,
+
+$$
+\lim_{x \to a} [f(x) + g(x)]= \lim_{x \to a} f(x) + \lim_{x \to a} g(x) = L_1 + L_2
+$$
