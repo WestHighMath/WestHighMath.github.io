@@ -40,7 +40,7 @@ Now you might be convinced that limits are just y-values. To some extent, you're
 But take a look at this limit:
 
 $$
-\lim{x \to 1} \frac{x^3 - x^2}{x-1}
+\lim_{x \to 1} \frac{x^3 - x^2}{x-1}
 $$
 
 If a limit is indeed simply a y-value, let's plug in $$x=1$$:
