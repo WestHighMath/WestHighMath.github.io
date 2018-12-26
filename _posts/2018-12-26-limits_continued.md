@@ -64,7 +64,6 @@ But a limit is asking what happens when you get **close** to a certain x-value, 
 
 Now, we can properly answer the example question:
 
-
 $$
 \lim_{x \to 1} \frac{x^3 - x^2}{x-1} = 1
 $$
