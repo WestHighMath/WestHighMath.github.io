@@ -40,4 +40,6 @@ Now, let's look at a function table of these values (excuse my bad handwriting/d
 
 From the table, you might able to see a pattern. What's happening to the value of the function as we make $$x$$ closer and closer to $$2$$? The function is getting closer and closer to $$4$$.
 
-If you're not convinced, plug in values close to 2, like $$1.999999$$ or $$2.000001$$. You'll see that $$f(x)$$ is some number extremely close to 4, but **not $$4$$ itself$.
+If you're not convinced, plug in values close to 2, like $$1.999999$$ or $$2.000001$$. You'll see that $$f(x)$$ is some number extremely close to 4, but **not $$4$$ itself$**.
+
+The value we get by asking ourselves, **what number is the function approaching as $$x$$ approaches some value?**, is what we call the **limit** of the function as we **approach some $$x$$ value**.
