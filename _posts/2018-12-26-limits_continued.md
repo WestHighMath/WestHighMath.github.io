@@ -73,3 +73,11 @@ The purpose of this section is to get you understand that conceptually, limits a
 I'll discuss some techniques to solving limits like the one above in the next lesson. But first, let's look at some rules for limits.
 
 ## Rules for limits
+
+###Sum rule for limits
+Given the limits of two different functions
+$$
+\begin{align}
+\lim_{x \to a} f(x) = L_1 & \lim_{x \to a} g(x) = L_2
+\end{align}
+$$
