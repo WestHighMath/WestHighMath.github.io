@@ -75,9 +75,12 @@ I'll discuss some techniques to solving limits like the one above in the next le
 ## Rules for limits
 
 ###Sum rule for limits
-Given the limits of two different functions
+Given the limits of two different functions, f(x) and g(x), such that
+
 $$
 \begin{align}
 \lim_{x \to a} f(x) = L_1 & \lim_{x \to a} g(x) = L_2
 \end{align}
 $$
+
+where &&a, \, L_1, \, L_2$$ are real numbers
