@@ -84,6 +84,20 @@ $$
 \end{align}
 $$
 
+### Constant rule for limits
+
+The limit of a constant is the constant itself regardless of what $$x$$ is approaching
+
+$$
+\lim_{x \to a} c = c
+$$
+
+This rule makes sense if you look at the graph below.
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/limit_constant_rule.png" alt="constant_rule">
+
+$$y = c$$ is just a horizontal line, so no matter what $$x$$ you choose, $$y$$ always equals $$c$$
+
 ### Product rule for limits
 
 Similarly, the limit of the product of functions is the product of their limits.
