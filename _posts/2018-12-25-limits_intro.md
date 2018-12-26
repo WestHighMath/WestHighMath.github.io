@@ -15,7 +15,7 @@ If you've taken any secondary math, you know that a function usually looks like 
 
 $$
 y = f(x)
-$$.
+$$
 
 All this is saying is take some $$x$$ value, plug it into the function, and you get a $$y$$ value. Or, if you're more science-oriented, $$x$$ is your independent variable and $$y$$ the dependent variable.
 
