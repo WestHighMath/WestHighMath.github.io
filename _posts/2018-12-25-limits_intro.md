@@ -1,5 +1,5 @@
 ---
-title: "Limits"
+title: "1.1 Limits"
 date: 2018-12-25
 tags: [limits]
 mathjax: "true"
