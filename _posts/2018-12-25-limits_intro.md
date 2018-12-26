@@ -55,3 +55,10 @@ The formal mathematical notation for what we just said is
 $$
 \lim_{x \to 2} x^2 = 4
 $$
+
+or
+
+$$
+\lim_{x \to 2} f(x) = 4
+$$
+where $$f(x) = x^2$$
