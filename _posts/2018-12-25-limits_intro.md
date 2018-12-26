@@ -3,6 +3,7 @@ title: "Limits"
 date: 2018-12-25
 tags: [limits]
 mathjax: "true"
+permalink: /limits_intro/
 ---
 
 Welcome to your first calculus lesson! We'll be starting with a fundamental concept to calculus known as **limits**.
@@ -84,4 +85,4 @@ This says the limit of $$f(x)$$ as $$x$$ approaches $$a$$ is $$L$$, where $$a$$ 
 
 This definition is informal but is sufficient for AP and IB courses, but if you want the formal definition, click [here]() for the epsilon-delta definition of a limit.
 
-You have finished the introductory lesson on limits. Click [here]() to continue.
+You have finished the introductory lesson on limits. Click [here](/limits_cont/) to continue.
