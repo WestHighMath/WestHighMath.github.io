@@ -98,11 +98,36 @@ This rule makes sense if you look at the graph below.
 
 $$y = c$$ is just a horizontal line, so no matter what $$x$$ you choose, $$y$$ always equals $$c$$
 
+### Constant multiple rule for limits
+
+The limit of a function that is multiplied by a constant is the a constant multiple of the limit.
+
+$$
+\lim_{x \to a} k \cdot f(x) = k \cdot \lim_{x \to a} f(x)
+$$
+
 ### Product rule for limits
 
-Similarly, the limit of the product of functions is the product of their limits.
+The limit of the product of functions is the product of their limits.
+
 $$
 \begin{align}
 \lim_{x \to a} [f(x)g(x)] &= \lim_{x \to a} f(x) \cdot \lim_{x \to a} g(x)
 \end{align}
 $$
+
+### Quotient rule for limits
+
+Same can be said for quotient of two functions.
+
+$$
+\lim_{x \to a} \frac{f(x)}{g(x)} = \frac{\lim_{x \to a} f(x)} {\lim_{x \to a} g(x)}
+$$
+
+provided that
+
+$$
+\lim_{x \to a} g(x) \neq 0
+$$
+
+because we don't like division by zero.
