@@ -46,7 +46,9 @@ $$
 If a limit is indeed simply a y-value, let's plug in $$x=1$$:
 $$
 \begin{align}
-\lim{x \to 1} \frac{x^3 - x^2}{x-1} &= \frac{1^3 - 1^2}{1-1}
-&= \frac{1 - 1}{1-1} &= \frac{0}{0}
+\lim{x \to 1} \frac{x^3 - x^2}{x-1} &= \frac{1^3 - 1^2}{1-1}\\
+&= \frac{1 - 1}{1-1}\\ &= \frac{0}{0}
 \end{align}
 $$
+
+Hopefully you recognize that $$\frac{0}{0}$$ is impossible. Now, you might be tempted to say that there is no limit, that the limit **does not exist**.
