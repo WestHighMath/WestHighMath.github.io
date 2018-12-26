@@ -83,3 +83,12 @@ $$
 \lim_{x \to a} [f(x) + g(x)] &= \lim_{x \to a} f(x) + \lim_{x \to a} g(x)
 \end{align}
 $$
+
+### Product rule for limits
+
+Similarly, the limit of the product of functions is the product of their limits.
+$$
+\begin{align}
+\lim_{x \to a} [f(x)g(x)] &= \lim_{x \to a} f(x) \cdot \lim_{x \to a} g(x)
+\end{align}
+$$
