@@ -70,4 +70,16 @@ To reinforce this idea of limits, let's look at this same example but graphicall
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/limit_graph_example.png" alt="motivation">
 
-We have a graph of $$f(x) = x^2$$. We can easily see that at $$x = 2$$, $$y = f(2) = 4$$. The two points on either side of $$x = 2$$ give $$y$$ points on the graph that are close to $$y = 4$$. You can imagine that as we push our $$x$$ points closer to 2, the $$y$$ points will get closer to 4. 
+We have a graph of $$f(x) = x^2$$. We can easily see that at $$x = 2$$, $$y = f(2) = 4$$. The two points on either side of $$x = 2$$ give $$y$$ points on the graph that are close to $$y = 4$$. You can imagine that as we push our $$x$$ points closer to 2, the $$y$$ points will get closer to 4.
+
+## Definition of a Limit
+
+In general terms, a limit is defined as
+
+$$
+\lim_{x \to a} f(x) = L
+$$
+
+This says the limit of $$f(x)$$ as $$x$$ approaches $$a$$ is $$L$$, where $$a$$ and $$L$$ are some real number.
+
+This definition is informal but is sufficient for AP and IB courses, but if you want the formal definition, click [here]() for the epsilon-delta definition of a limit.
